@@ -1,0 +1,74 @@
+body {
+	text-align: center!important;
+	align-items: center!important;
+	display: flex!important;
+
+	justify-content: center;
+	
+}
+article {
+	align-items: center;
+	font-family: 'Orbitron', sans-serif;
+	text-align: center;
+}
+.my-button {
+	margin: 2px;
+	padding: 2px;
+	font-size: 20px;
+
+}
+.my-card-title {
+	text-align: center;
+	align-items: center;
+	display: flex;
+}
+.bor-style {
+	border: 1px solid gray;
+	border-radius: 4px;
+	width: 300px;
+	margin: 2px 0px;
+	min-width: 20px;
+}
+.my-color {
+	color: white;
+}
+i {
+	border: 1px solid gray;
+	border-radius: 4px;
+	background-color: white;
+	color: #dc3545;
+	padding: 2px;
+	font-size: 29px;
+	margin: 2px;
+}
+.result {
+	text-align: center;
+}
+.my-textarea {
+	margin: 5px;
+	background-color: pink;
+	height: 170px;
+	overflow-y: scroll;
+}
+.button-padd {
+	margin: 4px 2px;
+
+}
+.button-padding {
+
+	margin: 4px 5px;
+	min-width: 100px;
+}
+.responsive{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.width{
+	width: 500px;
+}
+.form-control-1 {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
